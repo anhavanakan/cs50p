@@ -27,6 +27,5 @@ for price in o:
     rate = USD['rate_float']
 #OMG we can write ',.4f' ',' and '.4f' jointly after ':'
 #p.s. after ':' space is matters, there shuldn't be spaces
-a = 'a'
 print(f'${(float(rate) * float(sys.argv[1])) :,.4f}')
 
