@@ -21,7 +21,7 @@ def test_conversion():
 
 
 #to check is function raises errors we should use pytest libray as follows
-#above 'with' write expression you want to check
+#below 'with' line, write expression you want to check
 def test_exceptions():
     with pytest.raises(ZeroDivisionError):
         convert('1/0')
