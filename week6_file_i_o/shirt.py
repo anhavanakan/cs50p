@@ -1,4 +1,4 @@
-# this will check file extensions
+# this will check file extensions 
 from os.path import splitext
 import PIL.Image
 from sys import argv, exit
