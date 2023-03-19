@@ -14,8 +14,7 @@ Will open the wallet, where you can buy and sell bitcoin at real-time price.
 --reset > will reset your balnce to 0 BTC and  $1.000.000 USD
 
 
-## Details
-Here are some additional information that you can add to your project description:
+
 
 ## Features
 
